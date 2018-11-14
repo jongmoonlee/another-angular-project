@@ -19,7 +19,15 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.scss"
+        "assets/css/fonts/linea-basic-10.eot",
+        "assets/css/fonts/linea-basic-10.svg",
+        "assets/css/fonts/linea-basic-10.ttf",
+        "assets/css/fonts/linea-basic-10.woff",
+        "assets/css/style.comp.css",
+        "assets/css/style.concat.css",
+        "assets/css/style.prefix.css",
+        "assets/css/style.css",        
+        "assets/sass/main.scss"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
